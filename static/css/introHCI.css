@@ -4,11 +4,12 @@
 }
 .project {
      margin-left: 20px;
+     text-align: center;
 }
 .thumbnail {
      width: auto;
      height: auto;
-     margin-left: 20px;
+     margin-left: 10px;
 }
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
