@@ -5,8 +5,8 @@
 .project {
      margin-left: 20px;
 }
-img .thumbnail{
-     width: 100px;
+img .thumbnail {
+     width: 50px;
      height: 100px;
 }
 /* applies to any <p> descendants of an element of class "example-class-selector" */
