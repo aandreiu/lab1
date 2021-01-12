@@ -6,8 +6,8 @@
      margin-left: 20px;
 }
 img .thumbnail {
-     width: 500px;
-     height: 500px;
+     width: auto;
+     height: auto;
 }
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
