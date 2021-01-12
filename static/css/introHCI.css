@@ -8,7 +8,7 @@
 img .thumbnail {
      width: 50px;
      height: 100px;
-     border: 3px solid #434343;
+     border: 10px solid #0070cc;
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
