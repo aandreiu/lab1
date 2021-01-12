@@ -7,7 +7,7 @@
 }
 .thumbnail {
      border-color: cornflowerblue;
-     border-width: 20px;
+     border-width: 10px;
 }
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
